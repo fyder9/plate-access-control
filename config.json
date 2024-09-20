@@ -1,0 +1,16 @@
+{
+    "db": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "nomi_e_targhe"
+    },
+    "server": {
+      "port": 3000
+    },
+    "camera": {
+      "ip": "172.16.103.41",
+      "ip2": "172.16.103.42",
+      "password": "toor"
+    }
+  }
