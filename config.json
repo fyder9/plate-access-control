@@ -1,0 +1,18 @@
+{
+    
+    "dbHost": "localhost",
+    "dbName": "nomi_e_targhe",
+    "tableName": "veicoli",
+    "dbUser": "root",
+    "dbPassword": "",
+    "ip1": "192.168.1.73",
+    "ip2": "192.168.1.74",
+    "ip_relay":"192.168.1.72",
+    "cameraPassword": "toor",
+    "emailaddress":"tw2@pierfelice7.it",
+    "emailreceiver":"gossettifederico778@gmail.com",
+    "emailpassword":"Tecno8421!",
+    "smtp_port":"25"
+
+
+}
