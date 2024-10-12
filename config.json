@@ -6,13 +6,14 @@
     "dbUser": "root",
     "dbPassword": "",
     "ip1": "192.168.1.73",
-    "ip2": "192.168.1.74",
     "ip_relay":"192.168.1.72",
-    "cameraPassword": "toor",
+    "camerauser":"root",
+    "cameraPassword": "tecno8421",
     "emailaddress":"tw2@pierfelice7.it",
     "emailreceiver":"gossettifederico778@gmail.com",
-    "emailpassword":"Tecno8421!",
-    "smtp_port":"25"
+    "emailpassword":"Tecno14277!",
+    "smtp_port":"587",
+    "host":"mail.tophost.it"
 
 
 }
