@@ -1,19 +1,18 @@
 {
-    
     "dbHost": "localhost",
     "dbName": "nomi_e_targhe",
     "tableName": "veicoli",
     "dbUser": "root",
     "dbPassword": "",
     "ip1": "192.168.1.73",
-    "ip_relay":"192.168.1.72",
-    "camerauser":"root",
+    "ip_relay": "192.168.1.72",
+    "camerauser": "root",
     "cameraPassword": "tecno8421",
-    "emailaddress":"tw2@pierfelice7.it",
-    "emailreceiver":"gossettifederico778@gmail.com",
-    "emailpassword":"Tecno14277!",
-    "smtp_port":"587",
-    "host":"mail.tophost.it"
-
-
+    "relayuser": "root",
+    "relaypassword": "toor",
+    "emailaddress": "tw2@pierfelice7.it",
+    "emailreceiver": "gossettifederico778@gmail.com",
+    "emailpassword": "Tecno14277!",
+    "smtp_port": "587",
+    "host": "mail.tophost.it"
 }
